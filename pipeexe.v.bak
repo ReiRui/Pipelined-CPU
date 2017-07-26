@@ -1,0 +1,3 @@
+module pipeexe exe_stage (ealuc,ealuimm,ea,eb,eimm,eshift,ern0,epc4,ejal,ern,ealu);
+
+endmodule

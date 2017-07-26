@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clock'
+Slack : -66.194
+TNS   : -9160.215
+
+Type  : Slow Model Setup 'pipeemreg:em_reg|malu[3]'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Slow Model Hold 'clock'
+Slack : -1.888
+TNS   : -16.889
+
+Type  : Slow Model Hold 'pipeemreg:em_reg|malu[3]'
+Slack : -0.922
+TNS   : -3.987
+
+Type  : Slow Model Minimum Pulse Width 'clock'
+Slack : -2.000
+TNS   : -1888.528
+
+Type  : Slow Model Minimum Pulse Width 'pipeemreg:em_reg|malu[3]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clock'
+Slack : -28.196
+TNS   : -3770.014
+
+Type  : Fast Model Setup 'pipeemreg:em_reg|malu[3]'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clock'
+Slack : -1.335
+TNS   : -41.830
+
+Type  : Fast Model Hold 'pipeemreg:em_reg|malu[3]'
+Slack : -0.302
+TNS   : -0.937
+
+Type  : Fast Model Minimum Pulse Width 'clock'
+Slack : -2.000
+TNS   : -1888.528
+
+Type  : Fast Model Minimum Pulse Width 'pipeemreg:em_reg|malu[3]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

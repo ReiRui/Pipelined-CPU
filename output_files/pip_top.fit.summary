@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue May 24 22:09:03 2016
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : pip_top
+Top-level Entity Name : pip_top
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 5,314 / 33,216 ( 16 % )
+    Total combinational functions : 4,859 / 33,216 ( 15 % )
+    Dedicated logic registers : 1,475 / 33,216 ( 4 % )
+Total registers : 1475
+Total pins : 68 / 475 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 3,072 / 483,840 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

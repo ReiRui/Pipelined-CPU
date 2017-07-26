@@ -1,0 +1,3 @@
+module pipeir (pc4,ins,wpcir,clock,resetn,dpc4,inst);
+
+endmodule
